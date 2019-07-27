@@ -1,6 +1,9 @@
 ![Mininet Editor Logo](./public/img/icons/android-chrome-384x384.png)
 
 # Mininet Editor
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Thomaash/me.svg)](https://greenkeeper.io/)
+
 SDN topology editor in your web browser with Mininet export.
 
 Exports JSONs (whole projects), Python scripts (Mininet emulation), addressing plans and topology images.\
